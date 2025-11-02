@@ -1,8 +1,8 @@
 ### Hello, I'm Arnold! 👋
 
 - 👩🏻‍💻 Research Engineer at Barcelona Supercomputing Center
-- 🏠 Barcelona, Spain
-- 💻 Past projects [@arnold-in-tech](https://github.com/Arnold-In-Tech)
+- 🏠 Barcelona, Catalonia, Spain
+- 💻 Past projects and contributions [@arnold-in-tech](https://github.com/Arnold-In-Tech)
 
 Want to get in touch? Reach me at:
 
